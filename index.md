@@ -1,5 +1,11 @@
 ---
+title: Kelvin's Homepage
+description: Follow my portfolio here!
 layout: default
 ---
 
-# [About Me]("kelvinwang205.github.io/about")
+# SQL Projects
+
+# PowerBI Projects
+
+# [About Me](about)
