@@ -9,6 +9,4 @@
 
 Just testing things out.
 
-I am just a silly ~~big~~--little-- guy.
-
 [View My Profile](https://www.github.com/kelvinwang205)
