@@ -11,4 +11,4 @@ Just testing things out.
 
 I am just a silly ~~big~~--little-- guy.
 
-[View My Profile](https://github.com/kelvinwang205)
+[View My Profile](https://www.github.com/kelvinwang205)
